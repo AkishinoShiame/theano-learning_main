@@ -1,0 +1,9 @@
+[submodule "theano-learning.part01"]
+	path = theano-learning.part01
+	url = https://github.com/artmusic0/theano-learning.part01
+[submodule "theano-learning.part02"]
+	path = theano-learning.part02
+	url = https://github.com/artmusic0/theano-learning.part02
+[submodule "theano-learning.part03"]
+	path = theano-learning.part03
+	url = https://github.com/artmusic0/theano-learning.part03
